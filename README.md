@@ -2,9 +2,9 @@
 
 [Node](https://nodejs.org/en/) va [Git](https://git-scm.com/download/win) ni kompyuteringizga o'rnating!
 
-1. [main_web_site repository](https://github.com/Gulistan-Developers-Community/main_web_site) clone qilinadi ![clone](/FAQ/assets/clone.png)
+1. [main_web_site repository](https://github.com/Gulistan-Developers-Community/main_web_site) clone qilinadi ![clone](assets/clone.png)
 
-2. [Visualstudio_Code](https://code.visualstudio.com/) ga kirib **Terminal/New_Terminal** ochiladi ![](/FAQ/assets/terminal.png)
+2. [Visualstudio_Code](https://code.visualstudio.com/) ga kirib **Terminal/New_Terminal** ochiladi ![](assets/terminal.png)
 
 3. Terminalda /main_web_site papkasiga o'ting (cd komandasi orqali. Masalan cd main_web_site)
 
