@@ -8,9 +8,11 @@
 
 3. Terminalda /main_web_site papkasiga o'ting (cd komandasi orqali. Masalan cd main_web_site)
 
-4. So'ng **git branch** deb yozsangiz branchlar yani shoxlari listi chiqadi
+4. So'ng **git branch** deb yozsangiz branchlar yani shoxlari listi chiqadi.
 
 5. 3ta branch bor: main, html/css va react. Siz html/css yoki react(Masalan git switch react yoki git switch html/css) GA O'TIB! **git checkout -b** react_ismingiz yoki html/css_ismingiz ni yozasiz. Masalan **git checkout -b html/css_otabek** (kichik harflarda yozing!)
+
+5.1. Agar branchlar listi bo'lmasa **git checkout -b <sizning ismingiz>** deb o'z branchingizni oching.
 
 6. So'ngra, ANNIQ TEKSHIRING! **git branch** deb yozsangiz <html/css_ismingiz> chiqishi kerak!
 
