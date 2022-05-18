@@ -12,11 +12,15 @@
 
 5. 3ta branch bor: main, html/css va react. Siz html/css yoki react(Masalan git switch react yoki git switch html/css) GA O'TIB! **git checkout -b** react_ismingiz yoki html/css_ismingiz ni yozasiz. Masalan **git checkout -b html/css_otabek** (kichik harflarda yozing!)
 
-5.1. Agar branchlar listi bo'lmasa **git checkout -b <sizning ismingiz>** deb o'z branchingizni oching.
+6. Agar branchlar listi bo'lmasa **git checkout -b sizning ismingiz** deb o'z branchingizni oching.
 
-6. So'ngra, ANNIQ TEKSHIRING! **git branch** deb yozsangiz <html/css_ismingiz> chiqishi kerak!
+7. So'ngra, ANNIQ TEKSHIRING! **git branch** deb yozsangiz <html/css_ismingiz> chiqishi kerak!
 
-7. Mana endi bemalol kod yozishingiz mumkin!
+8. Mana endi bemalol kod yozishingiz mumkin!
+
+9. Kod yozib bo'lgandan so'ng **git add .** , **git commit -m "istalgan matn"** , **git push origin siz_ochgan_branch_nomi** ni terminalga yozing!
+
+
 
 Figma dizaynni o'zim bir amallab qildim [figma](<https://www.figma.com/file/yKNrPueL5NxwcrbdJ5lI6n/Neubrutalism-Landing-Page-Design-(Community)?node-id=104%3A272>) hali yana narsalar qo'shiladi!
 Siz albatta yangiliklar kiritib chiroylilashtirishingiz mumkin
